@@ -655,8 +655,8 @@ Please make sure your boards conform to these design rules.</description>
 <vertex x="6.2992" y="4.7117"/>
 </polygon>
 <wire x1="7.239" y1="0.8128" x2="7.2254" y2="0.889" width="0.6096" layer="1"/>
-<wire x1="6.6548" y1="6.4008" x2="6.0198" y2="6.4008" width="0.6096" layer="16"/>
-<via x="6.0198" y="6.4008" extent="1-16" drill="0.381"/>
+<wire x1="6.6548" y1="6.4008" x2="5.9182" y2="6.4008" width="0.6096" layer="16"/>
+<via x="5.9182" y="6.4008" extent="1-16" drill="0.6"/>
 <wire x1="4.6622" y1="6.2738" x2="4.4704" y2="6.096" width="0.6096" layer="1"/>
 <wire x1="6.6548" y1="6.4008" x2="8.509" y2="4.5466" width="0.6096" layer="16"/>
 <wire x1="8.509" y1="4.5466" x2="8.509" y2="0.8128" width="0.6096" layer="16"/>
