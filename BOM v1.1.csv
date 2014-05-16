@@ -1,1 +1,13 @@
-Name,Vendor,Part Number,QuantityTPS61230 Boost Converter,Digikey,TPS61230DRCR,11uH Inductor,Coilcraft,XFL4020-102MEB,110nF Capacitor,Digikey,C0603C103J5RACTU,122uF Capacitor,Digikey,C1608X5R1A226M080AC,31k Resistor,Digikey,ERJ-3GEYJ102V,1100k Resistor,Digikey,RHM100KCFCT-ND,1402k Resistor,Digikey,RHM402KCFCT-ND,1Green LED,Digikey,LTST-C190KGKT,1SPDT Slide Switch,Digikey,JS102011SAQN,1JST Connector,Digikey,455-1749-1-ND,12-pin Header,,,2
+Name,Vendor,Part Number,Quantity
+TPS61230 Boost Converter,Digikey,TPS61230DRCR,1
+1uH Inductor,Coilcraft,XFL4020-102MEB,1
+10nF Capacitor,Digikey,C0603C103J5RACTU,1
+22uF Capacitor,Digikey,C1608X5R1A226M080AC,3
+1k Resistor,Digikey,ERJ-3GEYJ102V,1
+100k Resistor,Digikey,RHM100KCFCT-ND,1
+402k Resistor,Digikey,RHM402KCFCT-ND,1
+Green LED,Digikey,LTST-C190KGKT,1
+SPDT Slide Switch,Digikey,JS102011SAQN,1
+JST Connector,Digikey,455-1749-1-ND,1
+2-pin Header,,,2
+,,,
