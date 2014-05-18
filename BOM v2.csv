@@ -12,7 +12,7 @@ JST Connector,Digikey,455-1749-1-ND,1
 2-pin Header,,,2
 ,,,
 Configurable UVLO (Resistor values depend on the desired UVLO voltage),,,
-The following combination gives a UVLO voltage of 3.42(falling) and 3.57(rising),,,
+The following combination gives a UVLO voltage of 3.42V (falling) and 3.57V (rising),,,
 1M Resistor,Digikey,ERJ-3EKF1004V,1
 499k Resistor,Digikey,ERJ-3EKF4993V,1
 0 Resistor,Digikey,ERJ-3GEY0R00V,1
