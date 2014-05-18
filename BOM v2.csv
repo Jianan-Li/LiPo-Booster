@@ -11,7 +11,7 @@ SPDT Slide Switch,Digikey,JS102011SAQN,1
 JST Connector,Digikey,455-1749-1-ND,1
 2-pin Header,,,2
 ,,,
-Configurable UVLO,,,
+Configurable UVLO (Resistor values depend on the desired UVLO voltage),,,
 1M Resistor,Digikey,ERJ-3EKF1004V,1
 499k Resistor,Digikey,ERJ-3EKF4993V,1
 0 Resistor,Digikey,ERJ-3GEY0R00V,1
