@@ -4,6 +4,6 @@ A breadboard-friendly boost converter board based on TPS61230 from Texus Instrum
 
 v1: Minimum component count
 
-v2: Configuration UVLO using three additional resistors
+v2: Configurable UVLO using three additional resistors
 
 Please refer to the TPS61230 datasheet for UVLO resistors calculation.
